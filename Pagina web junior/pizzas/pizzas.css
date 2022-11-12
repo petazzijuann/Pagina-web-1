@@ -1,0 +1,73 @@
+body{ 
+    color: rgb(255, 255, 255);
+background-image: url(/img/fondo.jpg);    
+background-size: cover;
+font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+}
+a{
+    color: rgb(255, 255, 255);
+}
+h1{
+    border: 0px;
+    padding: 0px;
+    font-size: 30pt;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+iframe{
+    margin: 15px;
+}
+h2{
+    font-size: 30px;
+}
+img{
+    margin: 15px; 
+}
+li{
+    margin: 15px;
+}
+
+small{
+    margin: 10px;
+    font-size: 20px;
+}
+.margen{
+    margin-right: 600px;
+}
+
+.icono {
+    padding: 0px;
+    width: 70px; 
+    float: right;
+    }
+    h3{
+        text-align: center;
+        font-size: 30px;
+        margin: 15px;
+    }
+.imagenes_pasos{
+    width: 600px;
+    height:400px ;  
+    margin: 20px; 
+    padding: 10px; 
+}
+.imagenes_pasos2{
+    width: 600px;
+    height:400px ;  
+    margin-right: 650px;
+}
+.insta {
+    text-align: center;
+    margin: 15px;
+}
+.center{
+    height: 400px;
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+ 
+}
+.center2{
+    text-align: center;  
+}
